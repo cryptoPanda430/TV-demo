@@ -1,0 +1,18 @@
+.ft-cards{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 50%;
+}
+.ft-card{
+  flex-direction: column;
+  margin: 30px;
+  padding: 15px;
+}
+.heading{
+  text-align: center;
+}
+.trade-panel{
+  display: flex;
+}
